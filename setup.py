@@ -30,7 +30,7 @@ tests_require = [
 ]
 
 install_requires = [
-    'Django>=1.2,<1.4',
+    'Django>=1.2',
     'django-indexer>=0.3.0',
     'django-kombu==0.9.4',
     'django-paging>=0.2.4',
